@@ -1,3 +1,5 @@
+#student count
+student_count = 11
 #List of students
 puts "The students of Villains Academy"
 puts "-------------"
@@ -15,4 +17,4 @@ puts "Norman Bates"
 print "Overall, we have "
 print 11
 puts " great students"
-	
+puts "Overall, we have #{student_count} great students"
